@@ -24,6 +24,7 @@ async function accessSpreadsheet() {
   await doc.useServiceAccountAuth({
     client_email: creds.client_email,
     private_key: creds.private_key,
+
   });
 
   await doc.loadInfo(); // loads document properties and worksheets
@@ -35,6 +36,8 @@ async function accessSpreadsheet() {
     query: 'TIMESTAMP.isDigit() == false' });
 
   rows.map(row => console.log(row.rowIndex));
+
+  console.log("bengals")
 
   /* 
   for (var i = 0; i < 5; i++) {
