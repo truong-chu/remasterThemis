@@ -1,0 +1,7 @@
+{"username":"Nguyen Van A","submits":{},"scores":{},"_id":"E0eSVJWjf8BYzfgt"}
+{"username":"Tran Thi C","submits":{},"scores":{},"_id":"SYirOBVy3RNXrDBF"}
+{"username":"$Jury","submits":{},"scores":{},"_id":"TWonO0OYBaqtlFL0"}
+{"username":"A","submits":{},"scores":{},"_id":"EYzpR5J9LWb7reZF"}
+{"username":"A","submits":{},"scores":{"DOUBLE":{}},"_id":"EYzpR5J9LWb7reZF"}
+{"username":"A","submits":{"0[A][DOUBLE]":{"cpp":"d88f43f54b5bdd6250a175847f347c0f"}},"scores":{"DOUBLE":{}},"_id":"EYzpR5J9LWb7reZF"}
+{"username":"A","submits":{"0[A][DOUBLE]":{"cpp":"d88f43f54b5bdd6250a175847f347c0f"}},"scores":{"DOUBLE":{"verdict":10,"details":[{"id":"test00","score":1,"time":0.0691256,"verdict":"Kết quả khớp đáp án!"},{"id":"test01","score":1,"time":0.0665318,"verdict":"Kết quả khớp đáp án!"},{"id":"test02","score":1,"time":0.0603067,"verdict":"Kết quả khớp đáp án!"},{"id":"test03","score":1,"time":0.0633139,"verdict":"Kết quả khớp đáp án!"},{"id":"test04","score":1,"time":0.0564989,"verdict":"Kết quả khớp đáp án!"},{"id":"test05","score":1,"time":0.056356,"verdict":"Kết quả khớp đáp án!"},{"id":"test06","score":1,"time":0.0667053,"verdict":"Kết quả khớp đáp án!"},{"id":"test07","score":1,"time":0.0602351,"verdict":"Kết quả khớp đáp án!"},{"id":"test08","score":1,"time":0.0540591,"verdict":"Kết quả khớp đáp án!"},{"id":"test09","score":1,"time":0.0647059,"verdict":"Kết quả khớp đáp án!"}]}},"_id":"EYzpR5J9LWb7reZF"}

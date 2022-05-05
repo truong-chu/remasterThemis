@@ -1,0 +1,35 @@
+﻿A‣DOUBLE: 10.00
+DOUBLE.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "DOUBLE.cpp" -pipe -O2 -s -static -lm -x c++ -o"DOUBLE.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom569\
+Dịch thành công.
+
+A‣DOUBLE‣test00: 1.00
+Thời gian ≈ 0.069125600 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test01: 1.00
+Thời gian ≈ 0.066531800 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test02: 1.00
+Thời gian ≈ 0.060306700 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test03: 1.00
+Thời gian ≈ 0.063313900 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test04: 1.00
+Thời gian ≈ 0.056498900 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test05: 1.00
+Thời gian ≈ 0.056356000 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test06: 1.00
+Thời gian ≈ 0.066705300 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test07: 1.00
+Thời gian ≈ 0.060235100 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test08: 1.00
+Thời gian ≈ 0.054059100 giây
+Kết quả khớp đáp án!
+A‣DOUBLE‣test09: 1.00
+Thời gian ≈ 0.064705900 giây
+Kết quả khớp đáp án!
